@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Egor
+=======
+Taran Maxim
+>>>>>>> origin/feature/listMax
